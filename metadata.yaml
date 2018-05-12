@@ -1,0 +1,60 @@
+_repo: Walladmor-Vol.-I--of-2---13--Freely-Translated-into-German-from-the-English-of-Sir-Walter-Sco__31563
+_version: 0.1.0
+contributor:
+  dubious_author:
+    agent_name: Scott, Walter
+    aliases:
+    - Templeton, Laurence
+    - Malagrowther, Malachi
+    - Cleishbotham, Jedediah
+    - Scott, Sir Walter
+    birthdate: 1771
+    deathdate: 1832
+    gutenberg_agent_id: '59'
+    url: http://www.gutenberg.org/2009/agents/59
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
+  translator:
+    agent_name: De Quincey, Thomas
+    aliases:
+    - Quincey, Thomas de
+    - Quincy, Thomas de
+    - Kvinsi, Tomas de
+    - DeQuincey, Thomas
+    birthdate: 1785
+    deathdate: 1859
+    gutenberg_agent_id: '797'
+    url: http://www.gutenberg.org/2009/agents/797
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_de_Quincey
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alexis, Willibald
+    aliases:
+    - Alexis, Wilibald
+    - Haring, Georg Wilhelm Heinrich
+    - Häring, Georg Wilhelm Heinrich
+    - Häring, Wilhelm
+    - Alexis, W. (Willibald)
+    birthdate: 1798
+    deathdate: 1871
+    gutenberg_agent_id: '41760'
+    url: http://www.gutenberg.org/2009/agents/41760
+description: '"The 3-volume German original was fictitiously attributed to Sir Walter
+  Scott, but actually written by G.W.H. Häring (under the pseud. of Willibald Alexis).
+  It was freely adapted into English by Thomas De Quincey."'
+gutenberg_issued: '2010-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31563'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PT'
+title: "Walladmor, Vol. 1 (of 2)\r\n\"Freely Translated into German from the English\
+  \ of Sir Walter Scott.\" And Now Freely Translated from the German into English."
+url: http://www.gutenberg.org/ebooks/31563
